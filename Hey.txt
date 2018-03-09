@@ -1,2 +1,6 @@
 You deffinetly shouldnt change this text.
+<<<<<<< HEAD
 Say something.
+=======
+I changed you.
+>>>>>>> 4aad766b3df1f3c506bb626a4cfb1427e41ca57e
